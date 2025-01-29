@@ -1,6 +1,8 @@
 ## FREHUNTARY - WiFi Nuclear Disruptor V0.1
+
 **AUTHOR:**
 Rip70022/craxterpy
+
 **Description:**
 
 `FREHUNTARY` is a `Python` script that acts as a "`WiFi network disruptor`" or "`WiFi jammer`". Its primary function is to send `deauthentication packets` to a target `Access Point` (AP), which can cause `devices` connected to the `network` to `disconnect`.
